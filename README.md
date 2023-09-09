@@ -1,4 +1,4 @@
-# Next-Word-Prediction-with-NLP-and-Deep-Learning
+# Next-Word-Prediction-with-Natural-language-processing-(NLP)-and-Deep-Learning
 Designing a Word Predictive system using LSTM
 
 Check out this article for the complete breakdown of the code - 
