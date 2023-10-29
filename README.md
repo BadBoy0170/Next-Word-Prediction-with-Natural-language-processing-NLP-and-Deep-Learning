@@ -13,10 +13,8 @@ Predictions-1.ipynb is the notebook that consists of the prediction model which 
 ## Contribution
 
 
-However, if you've made some money using my tools or just want to encourage me to continue creating stuff, please consider giving back on 
 **BTC Wallet : OxfCaaF45156380eF33f078256d0Aa98f0b10F175b** my efforts and help it grow by buying me coffee - but only if you're definitely able to!
 
----
 
 ### Contact Me !
 
